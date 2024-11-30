@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    height:100%;
+}
+.parent{
+   display:flex;
+   flex: row  wrap ;
+   border: 6px solid  rgb(128, 115, 2);
+   width:1400px;
+   justify-content:stretch;
+
+   
+}
+.parent div{
+width:1400px;
+height:800px;
+ font-size:larger ;
+ font-weight:150;
+text-align: center;
+}
+.one{
+    background-color: green;
+}
+.two{
+    background-color:yellow ;
+}
+.three{
+    background-color: purple ;
+}
+.four{
+    background-color: gray;
+}
+.five{
+    background-color: blue ;
+}
+.six{
+    background-color:orange ;
+}
+.seven{
+    background-color: pink;
+}
+.eight{
+    background-color: red;
+}
+.nine{
+    background-color:brown ;
+}
